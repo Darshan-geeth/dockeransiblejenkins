@@ -14,10 +14,11 @@
     #    name: docker
     #    state: started
     #    enabled: yes
-    #- name: Install docker-py python module
-    #  pip:
-    #    name: docker-py
-    #    state: present
+    - name: Install docker-py python module
+      pip:
+        name: docker-py
+        version: 1.10.6
+        state: present
     - name: Start the container
       docker_container:
         name: devapp
