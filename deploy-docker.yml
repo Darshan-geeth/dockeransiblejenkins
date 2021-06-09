@@ -24,5 +24,6 @@
         name: devapp1
         image: "312314205034/devapp1:{{DOCKER_TAG}}"
         state: started
-        published_ports:
-          - 0.0.0.0:8082:8080
+        ports:
+            - name: http
+              containerPort: 8081
