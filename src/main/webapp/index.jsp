@@ -50,7 +50,7 @@
 <!-- Main sample for a primary marketing message or call to action -->
 <div class="sample">
     <div class="container">
-        <h1 style="color:blue">Welcome to the world of DevOps</h1>
+        <h1>Welcome to the world of DevOps</h1>
         <p>Just Explore it !!!</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
@@ -60,8 +60,8 @@
     <!-- Example row of columns -->
      <div class="row">
         <div class="col-md-4">
-            <h2>Devops</h2>
-            <p>DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.</p>
+            <h2>Devops Continuous Integration</h2>
+            <p>Created an automated CI/CD declarative pipeline for maven based applications using groovy script, and integrated with ansible to deploy docker containers and pushing the same into docker hub</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
@@ -80,10 +80,15 @@
             <h2>Docker</h2>
             <p>Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers which are isolated from one another and bundle their own software, libraries and configuration files</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div> 
+        </div>
         <div class="col-md-4">
             <h2>Ansible</h2>
             <p>Ansible is a software tool that provides simple but powerful automation for cross-platform computer support primarily used for application deployment, updates on workstations and servers, cloud provisioning, configuration management</p>
+            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+         <div class="col-md-4">
+            <h2>Kubernetes</h2>
+            <p>Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
