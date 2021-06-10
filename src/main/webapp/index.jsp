@@ -31,7 +31,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Maven Build Devops Integration Project</a>
+            <a class="navbar-brand" href="#">AUTOMATION ANYWHERE</a>
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
@@ -41,7 +41,7 @@
                 <div class="form-group">
                     <input type="password" placeholder="Password" class="form-control">
                 </div>
-                <button type="submit" class="btn btn-success">Sign in</button>
+                <button type="submit" class="btn btn-success">Sign up</button>
             </form>
         </div><!--/.navbar-collapse -->
     </div>
@@ -49,8 +49,8 @@
 
 <!-- Main sample for a primary marketing message or call to action -->
 <div class="sample">
-    <div class="container" background-image: url("https://github.com/Darshan-geeth/dockeransiblejenkins/raw/main/wp7848369-devops-wallpapers.jpg") background-position:center background-repeat:no-repeat background-size:cover>
-        <h1 style="color:blue">Welcome to the world of Devops</h1>
+    <div class="container">
+        <h1 style="color:blue">Welcome to the world of DevOps</h1>
         <p>Just Explore it !!!</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
@@ -72,11 +72,6 @@
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Git</h2>
-            <p>Git is an open-source, version control tool created in 2005 by developers working on the Linux operating system; GitHub is a company founded in 2008 that makes tools which integrate with git</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
             <h2>Maven</h2>
             <p>Maven is a build automation tool used primarily for Java projects. Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
@@ -92,9 +87,8 @@
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Kubernetes</h2>
-            <p>Kubernetes is an open source project that has become one of the most popular container orchestration tools around, it allows you to deploy and manage multi-container applications at scale and most often used with Docker platform</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <h2>For more tools</h2>
+            <p><a class="btn btn-default" href="#" role="button">Click Here &raquo;</a></p>
         </div>
     </div>
 
