@@ -50,9 +50,9 @@
 <!-- Main sample for a primary marketing message or call to action -->
 <div class="sample">
     <div class="container">
-        background-image: url('example_img_girl.jpg');
-        <h1 style="color:red">Welcome to the world of Devops</h1>
-        <p>Just Explore it !!!</p>
+        background-image: url('https://github.com/Darshan-geeth/dockeransiblejenkins/blob/main/wp7848369-devops-wallpapers.jpg');
+        <h1 style="color:red">Welcome to the world of Devops and Just Explore it !!!</h1>
+       <!--  <p></p> -->
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
