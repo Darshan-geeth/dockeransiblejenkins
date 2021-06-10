@@ -49,13 +49,9 @@
 
 <!-- Main sample for a primary marketing message or call to action -->
 <div class="sample">
-    <div class="container">
-        background-image: url("https://github.com/Darshan-geeth/dockeransiblejenkins/raw/main/wp7848369-devops-wallpapers.jpg")
-        background-position:center
-        background-repeat: no-repeat
-        background-size: cover
-        <h1 style="color:red">Welcome to the world of Devops and Just Explore it !!!</h1>
-       <!--  <p></p> -->
+    <div class="container" background-image: url("https://github.com/Darshan-geeth/dockeransiblejenkins/raw/main/wp7848369-devops-wallpapers.jpg") background-position:center background-repeat:no-repeat background-size:cover>
+        <h1 style="color:blue">Welcome to the world of Devops</h1>
+        <p>Just Explore it !!!</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
@@ -87,17 +83,17 @@
         </div>
         <div class="col-md-4">
             <h2>Docker</h2>
-            <p>Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels</p>
+            <p>Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers which are isolated from one another and bundle their own software, libraries and configuration files</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div> 
         <div class="col-md-4">
             <h2>Ansible</h2>
-            <p>Ansible is a software tool that provides simple but powerful automation for cross-platform computer support. It is primarily intended for IT professionals, who use it for application deployment, updates on workstations and servers, cloud provisioning, configuration management, intra-service orchestration, and nearly anything a systems administrator does on a weekly or daily basis</p>
+            <p>Ansible is a software tool that provides simple but powerful automation for cross-platform computer support primarily used for application deployment, updates on workstations and servers, cloud provisioning, configuration management</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Kubernetes</h2>
-            <p>Kubernetes is an open source project that has become one of the most popular container orchestration tools around; it allows you to deploy and manage multi-container applications at scale. While in practice Kubernetes is most often used with Docker, the most popular containerization platform, it can also work with any container system that conforms to the Open Container Initiative (OCI) standards for container image formats and runtimes</p>
+            <p>Kubernetes is an open source project that has become one of the most popular container orchestration tools around, it allows you to deploy and manage multi-container applications at scale and most often used with Docker platform</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
