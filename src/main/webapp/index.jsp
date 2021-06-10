@@ -51,7 +51,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Welcome to the world of Automation !!!</h1>
-        <p>Explore and get lost into DevOps....</p>
+        <p>Explore and get lost into DevOps...</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
