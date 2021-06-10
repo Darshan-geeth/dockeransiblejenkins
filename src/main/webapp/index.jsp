@@ -12,7 +12,7 @@
 
 
     <!-- Custom styles for this template -->
-    <link href="sample.css" rel="stylesheet">
+    <link href="jumbotron.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -48,7 +48,7 @@
 </div>
 
 <!-- Main sample for a primary marketing message or call to action -->
-<div class="sample">
+<div class="jumbotron">
     <div class="container">
         <h1>Welcome to the world of DevOps</h1>
         <p>Just Explore it !!!</p>
