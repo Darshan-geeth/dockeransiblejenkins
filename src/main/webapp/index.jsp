@@ -50,8 +50,8 @@
 <!-- Main sample for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Welcome to the world of DevOps</h1>
-        <p>Just Explore it !!!</p>
+        <h1>Welcome to the world of Automation</h1>
+        <p>Explore and get lost into DevOps !!!</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
@@ -83,7 +83,7 @@
         </div>
         <div class="col-md-4">
             <h2>Ansible</h2>
-            <p>Ansible is a software tool that provides simple but powerful automation for cross-platform computer support primarily used for application deployment, updates on workstations and servers, cloud provisioning, configuration management</p>
+            <p>Ansible is a software tool that provides powerful automation for cross-platform computer support primarily used for app deployment and configuration management</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
          <div class="col-md-4">
