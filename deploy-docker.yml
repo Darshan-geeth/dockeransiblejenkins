@@ -21,8 +21,8 @@
         state: present
     - name: Start the container
       docker_container:
-        name: devapp3
-        image: "312314205034/devapp3:{{DOCKER_TAG}}"
+        name: devapp4
+        image: "312314205034/devapp4:{{DOCKER_TAG}}"
         state: started
         published_ports:
-          - 0.0.0.0:8077:8080
+          - 0.0.0.0:8076:8080
