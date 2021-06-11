@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>DevopsA</title>
+    <title>DevopsMavenProject</title>
 
 
     <!-- Custom styles for this template -->
@@ -50,7 +50,7 @@
 <!-- Main sample for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Welcome to the world of Automation !!!</h1>
+        <h1>Hello all !!!</h1>
         <p>Explore and get lost into DevOps...</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
