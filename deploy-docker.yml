@@ -21,8 +21,8 @@
         state: present
     - name: Start the container
       docker_container:
-        name: mavenapp2
-        image: "312314205034/mavenapp2:{{DOCKER_TAG}}"
+        name: devapp
+        image: "312314205034/devapp:{{DOCKER_TAG}}"
         state: started
         published_ports:
           - 0.0.0.0:8065:8080
