@@ -21,8 +21,8 @@
         state: present
     - name: Start the container
       docker_container:
-        name: devopsproject
-        image: "312314205034/devopsproject:{{DOCKER_TAG}}"
+        name: devopsmaven
+        image: "312314205034/devopsmaven:{{DOCKER_TAG}}"
         state: started
         published_ports:
-          - 0.0.0.0:8050:8080
+          - 0.0.0.0:8061:8080
