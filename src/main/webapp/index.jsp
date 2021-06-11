@@ -41,7 +41,7 @@
                 <div class="form-group">
                     <input type="password" placeholder="Password" class="form-control">
                 </div>
-                <button type="submit" class="btn btn-success">Sign up</button>
+                <button type="submit" class="btn btn-success">Sign in</button>
             </form>
         </div><!--/.navbar-collapse -->
     </div>
@@ -100,7 +100,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Devops Project by Darshan</p>
+        <p>&copy; created by darshan</p>
     </footer>
 </div> <!-- /container -->
 
